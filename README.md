@@ -4,5 +4,6 @@ This project aims to analyze customer data and transactions from various retail 
 
 The analysis will focus on key business metrics like total sales and store performance, helping us identify the most relevant customer segments to target.  We'll use this data to build a data-driven strategic recommendation, presented via Tableau, that will be instrumental in shaping our upcoming category review.
 
+The source of the dataset is https://www.kaggle.com/datasets/ashraf1997/quantium-data-analytics-virtual-experience-program.
 
 The dashboard is linked here:  https://public.tableau.com/views/RetailStoreAnalysis_16990591095150/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
