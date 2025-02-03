@@ -15,7 +15,7 @@ Despite steady growth, Crunchy Bites Inc. faces challenges in understanding seas
 
 
 ### 💾 Dataset Source
-The dataset comprises transaction records from multiple retail stores selling Crunchy Bites Inc. products. The dataset is retrieved from:  https://www.kaggle.com/datasets/ashraf1997/quantium-data-analytics-virtual-experience-program.
+The dataset comprises transaction records from multiple retail stores selling Crunchy Bites Inc. products. The dataset is retrieved from: [Kaggle Link](https://www.kaggle.com/datasets/ashraf1997/quantium-data-analytics-virtual-experience-program.)
 
 
 ### ❔ Key Business Questions
@@ -45,5 +45,5 @@ By addressing these insights, Crunchy Bites Inc. can refine its sales strategies
 
 ### The Tableau dashboard is linked here:
 
-- [Go to Tableau Public: ](https://public.tableau.com/views/RetailStoreAnalysis_16990591095150/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Click here to redirect dashboard hosted on Tableau Public: ](https://public.tableau.com/views/RetailStoreAnalysis_16990591095150/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
