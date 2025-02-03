@@ -44,4 +44,6 @@ By addressing these insights, Crunchy Bites Inc. can refine its sales strategies
 
 
 ### The Tableau dashboard is linked here:
-https://public.tableau.com/views/RetailStoreAnalysis_16990591095150/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+
+- [Go to Tableau Public: ](https://public.tableau.com/views/RetailStoreAnalysis_16990591095150/FinalStory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
